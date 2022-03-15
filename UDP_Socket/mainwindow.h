@@ -20,19 +20,11 @@ public:
 
 private slots:
     void on_button_add_clicked();
-
     void on_button_remove_clicked();
-
     void on_listWidget_currentRowChanged(int currentRow);
-
-
-
     void on_button_send_list_clicked();
-
     void on_button_giris_clicked();
-
     void on_button_cikis_clicked();
-
     void on_button_endofline_clicked();
 
 private:
